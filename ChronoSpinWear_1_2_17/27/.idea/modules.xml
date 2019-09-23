@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChronoSpin5/ChronoSpin5.iml" filepath="$PROJECT_DIR$/ChronoSpin5/ChronoSpin5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LP_uLiveWallpaper/LP_uLiveWallpaper.iml" filepath="$PROJECT_DIR$/LP_uLiveWallpaper/LP_uLiveWallpaper.iml" />
+    </modules>
+  </component>
+</project>
